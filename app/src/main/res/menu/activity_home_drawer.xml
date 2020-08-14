@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/nav_cart"
+            android:iconTint="@android:color/white"
+            android:title="Cart" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            android:title="favorites" />
+        <item
+            android:id="@+id/nav_Logout"
+            android:icon="@drawable/ic_logout"
+            android:iconTint="@android:color/white"
+            android:title="Logout" />
+
+
+</menu>

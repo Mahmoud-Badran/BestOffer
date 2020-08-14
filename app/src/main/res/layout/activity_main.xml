@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/well19"
+    android:scaleType="fitXY"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/app_logo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="125dp"
+        android:src="@drawable/deals"
+        android:layout_marginStart="125dp" />
+
+    <Button
+        android:id="@+id/main_login_btn"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/bttuns"
+        android:text="Already have an Account ? Login"
+        android:textSize="17sp"
+        android:textColor="#FFF"
+        android:padding="15dp" />
+
+    <Button
+        android:id="@+id/main_Regist_btn"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+       android:layout_above="@+id/main_login_btn"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/bttuns"
+        android:text="Register"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textColor="#FFF"
+        android:padding="14dp" />
+
+
+</RelativeLayout>

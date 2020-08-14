@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_product_item.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\view_product_item.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_add_new_product.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_admin_add_new_product.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_category_item.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\view_category_item.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_favorites.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_category.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_admin_category.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\favorites_item_layout.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\favorites_item_layout.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_company_category_item.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\view_company_category_item.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cart_item_layout.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\cart_item_layout.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_home.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_payment.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_company_home.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_company_home.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_profile.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_company_product_item.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\view_company_product_item.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product_detils.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_product_detils.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_home.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cart.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_home.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settins.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_settins.xml"
+    },
+    {
+        "merged": "D:\\0\\BestOffer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_product.xml",
+        "source": "D:\\0\\BestOffer-master\\app\\src\\main\\res\\layout\\activity_add_product.xml"
+    }
+]

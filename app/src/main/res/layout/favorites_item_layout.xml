@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/productNameTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:ellipsize="end"
+            android:lines="1"
+            android:padding="8dp"
+            android:textAlignment="viewStart"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            app:layout_constrainedWidth="true"
+            app:layout_constraintEnd_toStartOf="@id/deleteIv"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Name"
+
+            />
+
+        <ImageView
+            android:id="@+id/deleteIv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="8dp"
+            android:src="@drawable/ic_baseline_delete_24"
+            android:textAppearance="?attr/textAppearanceBody1"
+            app:layout_constraintBottom_toBottomOf="@id/productNameTv"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/productNameTv" />
+
+        <TextView
+            android:id="@+id/priceLabelTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:ellipsize="end"
+            android:lines="1"
+            android:padding="8dp"
+            android:text="@string/price_label"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/gray_background"
+            app:layout_constrainedWidth="true"
+            app:layout_constraintEnd_toStartOf="@id/deleteIv"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/productNameTv"
+
+            />
+
+        <TextView
+            android:id="@+id/priceTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:padding="8dp"
+            android:textAppearance="?attr/textAppearanceBody1"
+            app:layout_constraintBottom_toBottomOf="@id/priceLabelTv"
+            app:layout_constraintStart_toEndOf="@id/priceLabelTv"
+            app:layout_constraintTop_toTopOf="@id/priceLabelTv"
+            tools:text="5"
+
+            />
+
+
+        <TextView
+            android:id="@+id/theSellerLabelTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:ellipsize="end"
+            android:lines="1"
+            android:padding="8dp"
+            android:text="@string/the_seller_label"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/gray_background"
+            app:layout_constrainedWidth="true"
+            app:layout_constraintEnd_toStartOf="@id/deleteIv"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/priceLabelTv"
+
+            />
+
+        <TextView
+            android:id="@+id/theSellerTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:padding="8dp"
+            android:textAppearance="?attr/textAppearanceBody1"
+            app:layout_constraintBottom_toBottomOf="@id/theSellerLabelTv"
+            app:layout_constraintStart_toEndOf="@id/theSellerLabelTv"
+            app:layout_constraintTop_toTopOf="@id/theSellerLabelTv"
+            tools:text="company name"
+
+            />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
